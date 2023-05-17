@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my GitHub page!
+
+## About Me
+
+My name's Jimmy, and I'm an undergraduate Computer Engineering student at UNLV. For now, this GitHub serves as a backup of my previous assignments and tracks my progress through my academic career.
 
 <!--
 **kazuyam1negishi/kazuyam1negishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
