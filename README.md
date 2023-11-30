@@ -2,19 +2,22 @@
 
 ## About Me
 
-My name's Jimmy, and I'm an undergraduate Computer Engineering student at UNLV. For now, this GitHub serves as a backup of my previous assignments and tracks my progress through my academic career.
+My name's Jimmy, and I'm an undergraduate Computer Engineering student at UNLV. I'm interested in low-level systems, machine learning and frontend development. For now, this GitHub page serves as a backup of my previous assignments and tracks my progress through my academic career.
 
-<!--
-**kazuyam1negishi/kazuyam1negishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I use
 
-Here are some ideas to get you started:
+### Systems
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windowsxp&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### IDEs/Text Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+### Game Systems
+![3DS](https://img.shields.io/badge/Nintendo%20DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
