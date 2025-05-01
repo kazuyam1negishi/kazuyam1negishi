@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name's Jimmy Soto, and I'm an undergraduate Computer Engineering student at UNLV. I'm interested in low-level or embedded systems and machine learning.
+My name's Jimmy Soto Agustin, and I'm an undergraduate computer engineering student at UNLV, focusing on embedded systems, computer networking, and digital system design. 
 
 This GitHub page serves as an assignment backup and a place to share any projects I've worked on, professional or otherwise.
 
